@@ -1,3 +1,4 @@
+import shape.*;
 public class TestApp {
    public static void main(String[] args) {
     Movable m1 = new MovablePoint(50, 60, 10, 15); // upcast
